@@ -1,0 +1,19 @@
+/*element selector*/
+p{
+    color:sienna;
+    position: relative;
+    
+}
+
+/*ID selector*/
+#myheader{
+    color:red;
+    position: relative;
+}
+
+/*class selector*/
+.headers{
+    text-align:center;
+    color:royalblue;
+    position: relative;
+}
